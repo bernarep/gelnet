@@ -1,4 +1,3 @@
-setwd("C:/Users/Davide/Desktop/stand_alone_code_for_github")
 load("MC_my_data_test_short.RData")
 source("bic_gelnet_rev_comp.R")
 source("CR_gelasticnet_mse.R")

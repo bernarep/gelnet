@@ -100,5 +100,4 @@ List stage2solver(arma::mat S, arma::mat Winit, arma::mat E0, double toler = 1e-
   return(out);
 }
 
-// In order to compile the code you have to run sourceCpp("D:/DatiDavide/Downloads/test_gelasticnet.cpp") in console
 // END
